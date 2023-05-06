@@ -1,4 +1,4 @@
-"""The Ecowitt Weather Station Component."""
+"""The Ecowitt Weather Station Component.""" #CHanged line 21 to work with 2023.5
 import asyncio
 import logging
 import time
